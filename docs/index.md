@@ -35,14 +35,14 @@ __Stotz Equipment__, Casa Grande, AZ
 `April 2027 - June 2027`
 __Westmark Credit Union__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
+- Developed a predicted model to support Westmark in customer conversion from dealer loans.
 - Used R to build a machine learning model using CatBoost and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
 ## Service and Work History
 
 `2025-2027`
-__Economics Tutor Tutor__, BYU-I
+__Economics Tutor__, BYU-I
 
 
 `2015-2017`
